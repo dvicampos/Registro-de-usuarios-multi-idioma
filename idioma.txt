@@ -1,1 +1,0 @@
-Funciona a traves de clases, en el cual se registran los usuarios con un menu principal y puede seleccionar el idioma, con secciones capturar, mostrar ya sea por filtros de edad, sexo o todos.
